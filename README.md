@@ -1,5 +1,5 @@
 <div>
-<h2 align="left">Hi! My name is Adrián and I'm a Software Deeveloper, from Spain</h2>
+<h2 align="center">Adrián - Software Developer</h2>
 
 ###
 
@@ -36,10 +36,6 @@
   </a>
 </div>
 </div>
-
-<br clear="both">
-
-<br clear="both">
 
 <br clear="both">
 
